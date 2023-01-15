@@ -9,7 +9,7 @@
         
         line-height: 1.6;
         background-color: rgba(104, 75, 177, 1);
-        background-image: url("/Users/user/Desktop/Web projects/huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg");
+        background-image: url("images/bg-desktop.svg");
         background-repeat: no-repeat;
        background-size: 110%;
     }
